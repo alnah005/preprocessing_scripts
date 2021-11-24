@@ -20,7 +20,9 @@ This script utilizes the classes created in `extracts_to_cluster_dataclasses.py`
 
 1. General code that calculates the distance between each object that was extracted
 
-2. [Solar jets beta specific code that finds the cluster set by aggregating volunteer responses.](https://docs.google.com/presentation/d/1K5JiaPdL2EfD3ys0HmKKduMYQQdTGdO5pOieUNiiOiI/edit?usp=sharing)
+2. [Solar jets beta specific code that finds the cluster set by aggregating volunteer responses.](https://docs.google.com/presentation/d/1K5JiaPdL2EfD3ys0HmKKduMYQQdTGdO5pOieUNiiOiI/edit?usp=sharing) and saves the result to `final_result_ + suffix + .json`.
+
+    > The code also saves intermediate steps that could be useful for further analysis
 
 ## Input/Output files views
 
