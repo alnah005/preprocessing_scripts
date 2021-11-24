@@ -243,7 +243,7 @@ if verbose:
     print("ids of the maximum clusters:", cluster_freqs[max(cluster_freqs.keys())][1])
     print("ids of the minimum clusters:", cluster_freqs[min(cluster_freqs.keys())][1])
 
-
+##### General code for any task ends here
 ##### start of solar jets specific code
 def validate(obs: List):
     allO = [b for a in obs for b in a["clusters"]]
