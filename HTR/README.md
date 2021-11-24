@@ -228,7 +228,7 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
             "file_name": "9689653f-c634-4af4-9f58-31c7ecab05e9_rotated_test.jpeg"
       },
       ...
-   },
+    },
 
 ### `final_extracts.csv`
 
