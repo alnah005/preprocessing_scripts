@@ -80,7 +80,6 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
 
 ### `detections.json`
 
-    ```
     {
         "annotations": [
             {
@@ -117,11 +116,9 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
             ...
         ]
     }
-    ```
 
 ### `detections_cropped.json`
 
-    ```
     [
         {
         "im_path": "/home/fortson/alnah005/aggregation_for_caesar/htr/../../text_recognition/data/umnDatasetSample_cropped/9689653f-c634-4af4-9f58-31c7ecab05e9_rotated_test_0.jpeg",
@@ -141,11 +138,9 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
         },
         ...
     ]
-    ```
 
 ### `detections_cropped_with_text.json`
 
-    ```
     [
         {
         "im_path": "/home/fortson/alnah005/aggregation_for_caesar/htr/../../text_recognition/data/umnDatasetSample_cropped/9689653f-c634-4af4-9f58-31c7ecab05e9_rotated_test_0.jpeg",
@@ -165,11 +160,9 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
         },
         ...
     ]
-    ```
 
 ### `detections_cropped_with_text_stats_filled.json`
 
-    ```
     [
         {
         "im_path": "/home/fortson/alnah005/aggregation_for_caesar/htr/../../text_recognition/data/umnDatasetSample_cropped/9689653f-c634-4af4-9f58-31c7ecab05e9_rotated_test_0.jpeg",
@@ -203,11 +196,9 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
         },
         ...
     ]
-    ```
 
 ### `detections_cropped_with_text_stats_filled_extracts.json`
 
-    ```
     {
         "2": {
             "frame0": {
@@ -238,7 +229,6 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
       },
       ...
    },
-    ```
 
 ### `final_extracts.csv`
 
@@ -251,7 +241,6 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
 
 ### `imageid_to_subjectid.json`
 
-    ```
     {
         "0": {
             "file_name": "95ed9273-b134-4395-ae15-78bfa6264dd3.jpeg",
@@ -259,7 +248,6 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
         },
         ...
     }
-    ```
 
 ### `all_boxes.csv`
 
@@ -284,7 +272,6 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
 
 ### `final_annotations_10_train_cropped.json`
 
-    ```
     [
         {
             "im_path": "/home/fortson/alnah005/aggregation_for_caesar/htr/../../text_recognition/data/ASM/Original_Images_cropped_for_transcription_train/d713a533-bab9-40b4-9332-1f76781e00b9_0.jpeg",
@@ -305,6 +292,5 @@ Using the json from `convert_predictions_to_extracts.py` and an image id (from t
         },
         ...
     ]
-    ```
 
 ## [More Info](https://docs.google.com/presentation/d/19nKvKGxuHr3tc9c2Q3EutTJTgW0Ab8dgyXtbk7_iBic/edit#slide=id.g1036476c17d_0_0)
